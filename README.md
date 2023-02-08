@@ -1,9 +1,8 @@
-### Password_manager
+# Password manager
 
-##To do  
+## To do  
 Migrate TODO list to Github issues  
-Fix window sizing cutoffs  
-Main screen is still cutoff when an entry is created (this can be fixed when update password functionality is added)  
+Fix window sizing cutoffs 
 Create one dedicated GUI for creating a website/username/password input  
 Create Update password functionality  
 Create executable file  
